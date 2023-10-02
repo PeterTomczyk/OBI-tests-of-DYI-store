@@ -1,0 +1,11 @@
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:32 Opening page
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:39 Setting name Piotr and last_name Tomczyk
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:46 Setting street_name Kwiatowa, street_number 9
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:51 Setting postal_code 00-001, town Warszawa
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:56 Setting email ppython.ttester@gmail.com
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:60 Setting password Pythontester1*, repeat_password Pythontester1*
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:65 Setting phone +48 223 456 789
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:70 Consent to the newsletter
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:74 Consent to the conditions
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:78 Saving data
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:86 Error message creating

@@ -1,0 +1,11 @@
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:35 Opening page
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:44 Setting name Piotr and last_name Tomczyk
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:53 Setting street_name Kwiatowa, street_number 9
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:60 Setting postal_code 00-001, town Warszawa
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:67 Setting email 242pythondeveloper@o2.pl
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:73 Setting password Pythontester1*, repeat_password Pythontester1*
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:80 Setting phone +48 223 456 789
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:87 Consent to the newsletter
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:93 Consent to the conditions
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:99 Saving data
+[32mINFO    [0m page_object_pattern.pages.account_registration_page:account_registration_page.py:105 Correct message creating
